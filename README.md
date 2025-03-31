@@ -11,18 +11,18 @@ Welcome to my portfolio repository! This is a central hub for showcasing my care
 
 ## 📁 Featured Projects
 
-- [Google IT Support Labs](https://github.com/yourusername/google-it-support-labs)
-- [Troubleshooting Knowledge Base](https://github.com/yourusername/it-troubleshooting-guides)
-- [SysAdmin Scripts](https://github.com/yourusername/basic-sysadmin-scripts)
+- [Google IT Support Labs]()
+- [Troubleshooting Knowledge Base]()
+- [SysAdmin Scripts]()
 
 ## 📄 Resume & Certifications
 
-- [Resume PDF](./resume.pdf) *(Add later)*
+- [Resume PDF](./resume.pdf)
 - [Google IT Certificate](link-to-your-certificate)
 
 ## 📫 Contact
 
-- LinkedIn: [linkedin.com/in/nikolaos-polytseris](https://linkedin.com/in/nikolaos-polytseris)
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/nikolaos-polytseris](https://www.linkedin.com/in/nikolaos-polytseris-6baa56359/)
+- Email: nikolaos.polytseris@gmail.com
 
 
