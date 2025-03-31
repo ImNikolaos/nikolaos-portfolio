@@ -1,27 +1,31 @@
 # nikolaos-portfolio
 A personal portfolio repository including my resume, certifications, career objectives, and links to related GitHub projects. This serves as a central hub for showcasing my transition into IT Support and technical growth.
 
-# Google IT Support Labs
+# Nikolaos Polytseris – IT Support Portfolio
 
-This repository contains exercises and labs completed as part of the **Google IT Support Professional Certificate**. The labs cover fundamental IT support skills using both Windows and Linux environments.
+Welcome to my portfolio repository! This is a central hub for showcasing my career transition into the IT support field, with links to my projects, resume, and certifications.
 
-## 📂 Topics Covered
+## 🧑‍💻 About Me
 
-- Navigating file systems
-- Installing and configuring software
-- Basic networking concepts
-- Troubleshooting techniques
-- Working with users and permissions
-- System administration tasks
+- Based in Athens, Greece
+- Google IT Support Certified
+- Background in security operations, customer service, and technical troubleshooting
+- Passionate about helping users and solving problems
 
-## 🛠 Tools Used
+## 📁 Featured Projects
 
-- Linux (Ubuntu)
-- Windows OS
-- Command Line Interface
-- Virtual Machines (VirtualBox)
+- [Google IT Support Labs](https://github.com/yourusername/google-it-support-labs)
+- [Troubleshooting Knowledge Base](https://github.com/yourusername/it-troubleshooting-guides)
+- [SysAdmin Scripts](https://github.com/yourusername/basic-sysadmin-scripts)
 
-## 📚 Purpose
+## 📄 Resume & Certifications
 
-These labs simulate real-world IT support tasks and provide hands-on experience with common troubleshooting workflows.
+- [Resume PDF](./resume.pdf) *(Add later)*
+- [Google IT Certificate](link-to-your-certificate)
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/nikolaos-polytseris](https://linkedin.com/in/nikolaos-polytseris)
+- Email: your.email@example.com
+
 
