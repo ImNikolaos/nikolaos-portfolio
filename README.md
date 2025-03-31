@@ -1,6 +1,3 @@
-# nikolaos-portfolio
-A personal portfolio repository including my resume, certifications, career objectives, and links to related GitHub projects. This serves as a central hub for showcasing my transition into IT Support and technical growth.
-
 # Nikolaos Polytseris – IT Support Portfolio
 
 Welcome to my portfolio repository! This is a central hub for showcasing my career transition into the IT support field, with links to my projects, resume, and certifications.
